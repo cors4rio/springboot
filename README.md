@@ -1,5 +1,4 @@
-# springboot
-Exemplo de API RESTful utilizando o Modelo de Maturidade de Richardson
+# Exemplo de API RESTful utilizando o Modelo de Maturidade de Richardson
 Este projeto é uma implementação de uma API RESTful que segue os princípios do Modelo de Maturidade de Richardson, fornecendo um serviço CRUD (Create, Read, Update, Delete) para gerenciar recursos.
 
 Tecnologias utilizadas
