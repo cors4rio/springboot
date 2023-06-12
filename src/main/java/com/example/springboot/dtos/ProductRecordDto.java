@@ -3,5 +3,7 @@
     import jakarta.validation.constraints.NotBlank;
     import jakarta.validation.constraints.NotNull;
 
-    public record ProductRecordDto(@NotBlank String name, @NotNull String value) {
+    import java.math.BigDecimal;
+
+    public record ProductRecordDto(@NotBlank String name, @NotNull BigDecimal value) {
     }
